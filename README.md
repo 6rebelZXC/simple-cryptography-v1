@@ -64,19 +64,23 @@ Before starting :checkered_flag:, you need to have [Python](https://www.python.o
 # Clone this project
 $ git clone https://github.com/xsolisortusx/cryptor
 
+# Install Fernet
+$ pip install Fernet
+
 # Access
 $ cd cryptor
 
 # Run this project
 $ python3/python cryptor.py
 ```
+Enjoy ^_^
 
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](https://github.com/xsolisortusx/simple-cryptography-v1/blob/main/LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/xsolisortusx" target="_blank">{Ilya}</a>
+Made with :heart: by <a href="https://github.com/xsolisortusx" target="_blank">Ilya</a>
 
 &#xa0;
 
