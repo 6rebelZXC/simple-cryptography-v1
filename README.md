@@ -9,19 +9,19 @@
 <h1 align="center">Cryptor</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{xsolisortusx}/cryptor?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/xsolisortusx/cryptor?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{xsolisortusx}/cryptor?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/xsolisortusx/cryptor?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{xsolisortusx}/cryptor?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/xsolisortusx/cryptor?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{xsolisortusx}/cryptor?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/xsolisortusx/cryptor?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{xsolisortusx}/cryptor?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/xsolisortusx/cryptor?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{xsolisortusx}/cryptor?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/xsolisortusx/cryptor?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{xsolisortusx}/cryptor?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/xsolisortusx/cryptor?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -39,51 +39,42 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{xsolisortusx}" target="_blank">Author</a>
+  <a href="https://github.com/xsolisortusx" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Describe your project
+Simple cryptor
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Simple in reading for junior level programmers;\
+:heavy_check_mark: Simple in using;\
+:heavy_check_mark: Simple in all;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Python](https://www.python.org/) installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{xsolisortusx}/cryptor
+$ git clone https://github.com/xsolisortusx/cryptor
 
 # Access
 $ cd cryptor
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+# Run this project
+$ python3/python cryptor.py
 ```
 
 ## :memo: License ##
@@ -91,7 +82,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{xsolisortusx}" target="_blank">{Ilya}</a>
+Made with :heart: by <a href="https://github.com/xsolisortusx" target="_blank">{Ilya}</a>
 
 &#xa0;
 
