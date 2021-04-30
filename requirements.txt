@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
 cryptography~=3.4.7
 tabulate~=0.8.9
 colorama~=0.4.4
+=======
+cryptography~=3.4.7
+tabulate~=0.8.9
+colorama~=0.4.4
+Flask~=1.1.2
+>>>>>>> Stashed changes
