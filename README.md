@@ -34,4 +34,3 @@ python3 crypto.py
 Give a ⭐️ if this project helped you!
 
 ***
-``__````__``
