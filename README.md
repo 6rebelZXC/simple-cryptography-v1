@@ -73,7 +73,7 @@ $ python3/python cryptor.py
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](https://github.com/xsolisortusx/simple-cryptography-v1/blob/main/LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/xsolisortusx" target="_blank">{Ilya}</a>
