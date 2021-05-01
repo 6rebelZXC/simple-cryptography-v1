@@ -46,3 +46,4 @@ if __name__ == '__main__':
 # TODO:  Adding .EXE extension support [IN PROCESS]
 # Any updates for this application are acceptable in pull requests
 # DISCORD: 𝙋𝘼𝙄𝙉𝙇𝙀𝙎𝙎#0090.
+@xsolisortusx
